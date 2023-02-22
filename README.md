@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lovepytho" alt="sujal-ops-cyber" /> </p>
 
-![Discord](https://discord.c99.nl/widget/theme-2/601487810720956416.png)
+![Discord](https://discord.c99.nl/widget/theme-2/881460555389489172.png)
 
 <a href="https://discord.gg/mrCVJcX8My">
 
